@@ -3,7 +3,8 @@ Online problem sets and online judges
 
 ### Index
 * [Competitive Programming](#competitive-programming)
-* [Problem Sets] (#problem-sets)
+* [Problem Sets](#problem-sets)
+* [Courses](#courses)
 
 ### Competitive Programming
 * [4Clojure](http://www.4clojure.com/)
@@ -53,3 +54,6 @@ Online problem sets and online judges
 * [Timus Online Judge](http://acm.timus.ru/)
 * [URI Online Judge](https://www.urionlinejudge.com.br/judge/login)
 * [UVa Online Judge](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
+
+### Courses
+* [CS 97SI: Introduction to Programming Contests](https://web.stanford.edu/class/cs97si/) @ Stanford
